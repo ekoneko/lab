@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": false,
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+        "declaration": false
+    },
+    "include": [
+        "code"
+    ]
+}
